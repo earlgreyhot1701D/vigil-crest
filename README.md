@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Vigil Crest logo" width="200">
+</p>
+
 # Vigil Crest
 
 ## The problem
