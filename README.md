@@ -33,6 +33,35 @@ Then a short reasoning paragraph, and a verdict: **enter**, **skip**, or **maybe
 
 It does not pretend to know you better than it does. Until it has watched you make several real decisions, it labels its verdicts as first impressions and says what it is unsure about. That hedging is the point, not a limitation.
 
+## Triage in action
+
+Screenshots from a live Telegram session — Vigil Crest triaging the active DEV Community challenges:
+
+<p align="center">
+  <img src="screenshots/01-triage-greeting.jpg" alt="Vigil Crest greeting and starting triage" width="300"><br>
+  <em>Check-in: Vigil greets and begins browsing the challenge feed</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/02-triage-hermes-verdict.jpg" alt="Hermes Agent challenge verdict - ENTER" width="300"><br>
+  <em>Hermes Agent Challenge — verdict: enter (exact stack match, seven days of runway)</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/03-triage-github-verdict.jpg" alt="GitHub Finish-Up-A-Thon verdict - MAYBE" width="300"><br>
+  <em>GitHub Finish-Up-A-Thon — verdict: maybe (good runway, but Copilot lock-in)</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/04-triage-google-io-verdict.jpg" alt="Google I/O Writing Challenge verdict - SKIP" width="300"><br>
+  <em>Google I/O Writing Challenge — verdict: skip (deadline closed)</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/05-triage-gemma-summary.jpg" alt="Gemma 4 verdict and summary line" width="300"><br>
+  <em>Gemma 4 — verdict: skip, plus the one-line summary digest</em>
+</p>
+
 ## How you use it
 
 Vigil Crest is a check-in correspondent, not a broadcast bot. You message it, it triages, and every check-in is a chance for it to learn your taste.
